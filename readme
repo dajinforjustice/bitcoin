@@ -1,0 +1,16 @@
+tick_array structure: (n,43)
+    0: timestamp
+    1-20: ask price
+    21-40: ask volume
+    41-60: bid price
+    61-80: bid volume
+    81: last
+    82: volume
+    83: amount
+
+chart structure:0-k
+    0-6: time,o,h,l,c,v,a
+    7: dma 10,50
+    8: tr
+    9: atr 10
+    10: ma 20
